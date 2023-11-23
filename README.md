@@ -17,11 +17,13 @@ Before getting started, ensure you have the following installed on your machine:
    git clone https://github.com/radwan503/dictionary-app.git
    ```
 
-2. Open in your vs editor
-3. Open terminal
-4. Install dependencies:
+2. Open terminal in your machine.
+3. Copy & Paste steps one line in terminal.
+4. Open Project in your vs code editor
+5. Open terminal
+6. Install dependencies:
    - npm install
-5. Now that you have the project set up, you can start the development server
+7. Now that you have the project set up, you can start the development server
    - npm run dev
 
 This will run the app in development mode. Open http://localhost to view it in the browser.
